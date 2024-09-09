@@ -22,8 +22,7 @@ let dados = [
         social: "https://www.instagram.com/_beatrizsouzaar",
         redesocial: "@_beatrizsouzaar",
         link: "https://pt.wikipedia.org/wiki/Beatriz_Souza",
-        tags: "judô judo judoca judoka"
-
+        tags: "judô judo judoca judoka bia biatriz beatris"
     },
     {
         titulo: "Gabriel Medina",
