@@ -23,9 +23,13 @@ Quer ajudar a melhorar este projeto? Sinta-se à vontade para contribuir com nov
 Agradecemos a todos que contribuíram para este projeto!
 
 Alura com Gemini. 
+
 Rafaella Ballerini. 
+
 Guilherme Lima.
+
 Luciano Martins.
+
 
 **Licença:**
 
